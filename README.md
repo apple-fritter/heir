@@ -11,42 +11,38 @@ Use the following template to create your flowchart:
 ```
 ┌─ Start Program
 │
-├─ [Step 1]
-│   ├─ [Step 1.1]
-│   │   ├─ [Step 1.1.1]
-│   │   │   ├─ [Step 1.1.1.1]
-│   │   │   │   └─ [Action]
-│   │   │   │
-│   │   │   ├─ [Step 1.1.1.2]
-│   │   │   └─ [Step 1.1.1.3]
+├─ [Function 1]
+│   ├─ [Subfunction 1.1]
+│   │   ├─ [Subsubfunction 1.1.1]
+│   │   │   └─ [Action 1.1.1]
 │   │   │
-│   │   ├─ [Step 1.1.2]
-│   │   └─ [Step 1.1.3]
+│   │   ├─ [Subsubfunction 1.1.2]
+│   │   └─ [Subsubfunction 1.1.3]
 │   │
-│   ├─ [Step 1.2]
-│   │   ├─ [Step 1.2.1]
-│   │   ├─ [Step 1.2.2]
-│   │   │   ├─ [Step 1.2.2.1]
-│   │   │   └─ [Step 1.2.2.2]
-│   │   │       └─ [Action]
+│   ├─ [Subfunction 1.2]
+│   │   ├─ [Subsubfunction 1.2.1]
+│   │   ├─ [Subsubfunction 1.2.2]
+│   │   │   ├─ [Subsubsubfunction 1.2.2.1]
+│   │   │   └─ [Subsubsubfunction 1.2.2.2]
+│   │   │       └─ [Action 1.2.2]
 │   │   │
-│   │   └─ [Step 1.2.3]
+│   │   └─ [Subsubfunction 1.2.3]
 │   │
-│   └─ [Step 1.3]
+│   └─ [Subfunction 1.3]
 │
-├─ [Step 2]
-│   ├─ [Step 2.1]
-│   │   ├─ [Step 2.1.1]
-│   │   └─ [Step 2.1.2]
-│   │       ├─ [Step 2.1.2.1]
-│   │       └─ [Step 2.1.2.2]
+├─ [Function 2]
+│   ├─ [Subfunction 2.1]
+│   │   ├─ [Subsubfunction 2.1.1]
+│   │   └─ [Subsubfunction 2.1.2]
+│   │       ├─ [Subsubsubfunction 2.1.2.1]
+│   │       └─ [Subsubsubfunction 2.1.2.2]
 │   │
-│   └─ [Step 2.2]
-│       └─ [Step 2.2.1]
+│   └─ [Subfunction 2.2]
+│       └─ [Subsubfunction 2.2.1]
 │
 └─ End Program
+
 ```
-Replace `[Step X]` with the actual steps, and `[Action]` with the corresponding actions or tasks.
 
 ---
 
